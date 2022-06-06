@@ -25,8 +25,7 @@ I am engaged in setting up and maintaining contextual advertising. At university
     </p>
 
     <h2>August 20, 2012</h2>
-    <img src="images/segway2.jpg">
-    <p>
+        <p>
       Well I made it 1200 miles already, and I passed
       through some interesting places on the way: 
     </p>
@@ -57,8 +56,7 @@ I am engaged in setting up and maintaining contextual advertising. At university
     </p>
 
     <h2>June 2, 2012</h2>
-    <img src="images/segway1.jpg">
-    <p>
+     <p>
       My first day of the trip!  I can't believe I finally got
       everything packed and ready to go.  Because I'm on a Segway,
       I wasn't able to bring a whole lot with me:
